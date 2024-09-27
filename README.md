@@ -4,6 +4,8 @@
 
 ## [Credentials](./credentials.txt)
 
+## [MKUltra Mind Control Component API Documentation](./mkultra.pdf)
+
 ## IST Sat-1
 
 ![Satelite](./istsat.png)
